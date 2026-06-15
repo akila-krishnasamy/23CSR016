@@ -20,7 +20,7 @@ function AllNotifications() {
     // Dummy API Data
     const data = [
       {
-        id: 1,
+        id: 19,
         message: "Placement drive tomorrow",
         type: "placement",
         time: "2 mins ago",
